@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello" cd ~
+echo "hello myuser"
